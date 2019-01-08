@@ -1,0 +1,14 @@
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\bin\Debug\GetWallPaper.exe.config
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\bin\Debug\GetWallPaper.exe
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\bin\Debug\GetWallPaper.pdb
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.csprojAssemblyReference.cache
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.csproj.CoreCompileInputs.cache
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.exe
+c:\users\wish\source\repos\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.pdb
+C:\Programs\GetWallPaper\GetWallPaper\bin\Debug\GetWallPaper.exe.config
+C:\Programs\GetWallPaper\GetWallPaper\bin\Debug\GetWallPaper.exe
+C:\Programs\GetWallPaper\GetWallPaper\bin\Debug\GetWallPaper.pdb
+C:\Programs\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.csprojAssemblyReference.cache
+C:\Programs\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.csproj.CoreCompileInputs.cache
+C:\Programs\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.exe
+C:\Programs\GetWallPaper\GetWallPaper\obj\Debug\GetWallPaper.pdb
